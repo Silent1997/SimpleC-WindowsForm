@@ -1,0 +1,12 @@
+C:\Users\brand\source\repos\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\brand\source\repos\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\brand\source\repos\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\brand\source\repos\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\brand\source\repos\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\brand\source\repos\HelloWorld\obj\Debug\HelloWorld.HelloWorld.resources
+C:\Users\brand\source\repos\HelloWorld\obj\Debug\HelloWorld.PopupForm.resources
+C:\Users\brand\source\repos\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\brand\source\repos\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+C:\Users\brand\source\repos\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\brand\source\repos\HelloWorld\obj\Debug\HelloWorld.pdb
